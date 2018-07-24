@@ -7,7 +7,7 @@ import javax.ws.rs.core.MediaType;
 
 /**
  * @program: RestfulMaven
- * @description:
+ * @description: jdk1.8+tomcat9.0.7
  * @author: zhang wei
  * @create: 2018-07-25 00:02
  **/
